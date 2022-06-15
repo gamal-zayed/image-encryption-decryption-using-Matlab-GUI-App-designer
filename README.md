@@ -4,3 +4,6 @@ In this mini project, an image encryption and decryption using Matlab is impleme
 The first part overviews how to change the values of the image pixels. To do so, you need to open the matlab script named "Pixels_Assigning.m" and the image "Cameraman.png". In this piece of code, we change the upper left pixel from grey into white.
 
 The second part deals with glitches removal from an image. Use the matlab code named "Glitch_Averaging.m" to create a glitch then remove it using an averaging filter.
+
+The third part applies the image blurring (as a simple encryption way), and de-blurring (for decryption). We need to use the camera man again for this piece of code as an image sample.
+
