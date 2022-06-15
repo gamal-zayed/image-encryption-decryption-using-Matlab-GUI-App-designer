@@ -16,5 +16,5 @@ The fourth and last part implements GUI using App designer. We need to:
 2) import the image "Penguins.jpg";
 3) import the imnage "DSP.jpg".
 
-Thank you
+Thank you.
 I hope you enjoy it!
